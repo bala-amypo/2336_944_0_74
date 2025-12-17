@@ -79,7 +79,7 @@
 				<dependencies>
 					<dependency>
 						<groupId>org.apache.maven.surefire</groupId>
-						<artifactId>surefire-testng</artifactId>
+						 <artifactId>surefire-testng</artifactId>
 						<version>3.2.5</version>
 					</dependency>
 				</dependencies>
